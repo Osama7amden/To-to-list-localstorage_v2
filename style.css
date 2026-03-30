@@ -14,7 +14,7 @@ body {
 }
 .container {
   border: 1px solid white;
-  width: 70%;
+  width: 80%;
   margin: auto;
 }
 
@@ -28,14 +28,14 @@ body {
 }
 .container .menu .main button {
   position: relative;
-  left: 32%;
+  left: 29%;
 }
 .circle {
   border-radius: 50%;
   border: none;
 }
 i {
-  font-size: 13px;
+  font-size: 15px;
 }
 .container .menu .tasks {
   width: 100%;
