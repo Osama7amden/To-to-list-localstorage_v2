@@ -1,5 +1,5 @@
 // array of tasks
-let tasks = JSON.parse(localStorage.getItem("tasks"))
+let tasks = let tasks = JSON.parse(localStorage.getItem("tasks")) || [];
 
 
 // function to display tasks
